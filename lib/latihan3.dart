@@ -11,11 +11,11 @@ class Latihan3Beranda extends StatelessWidget {
       body: Center(
         child: ElevatedButton(
           onPressed: () {
-            // Mengirim argumen 'Rangga' ke rute detail
+            // Mengirim argumen 'Yuli' ke rute detail
             Navigator.pushNamed(
               context,
               '/latihan3/detail',
-              arguments: 'Rangga',
+              arguments: 'Yuli',
             );
           },
           child: const Text('Lihat Detail'),
