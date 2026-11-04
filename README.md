@@ -2,6 +2,11 @@
 
 Repository ini berisi hasil pengerjaan latihan navigasi menggunakan Flutter.
 
+### Menu Utama
+<p align="center">
+  <img src="screenshots/Beranda.png" width="400">
+</p>
+
 ---
 
 ### 1. Latihan 1 - Push & Pop
@@ -9,7 +14,7 @@ Perpindahan halaman dari Beranda ke Tentang.
 
 | Beranda | Tentang |
 | :---: | :---: |
-| <img src="screenshots/Latihan1.png" width="400"> | <img src="screenshots/Latihan1Tentang.png" width="400"> |
+| <img src="screenshots/Latihan1.png" width="300"> | <img src="screenshots/Latihan1Tentang.png" width="300"> |
 
 ---
 
